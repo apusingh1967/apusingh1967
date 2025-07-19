@@ -1,7 +1,4 @@
-- At eTrading team in a major US Bank; our manadate is to acheive single microsecond latency in tick to trade! And we are moving all our Java + ION shop to Rust + Aeron/SBE
-- Otherwise and ancient Java warrior, more than 25 years
-- A keen wannabe writer, I have some articles on exotic subjects at: https://medium.com/me/stories/public
-- Consistent stackoverflow contributor (breached 5000), among top 10% usually but got bit lazy of late: https://stackoverflow.com/users/3486720/apurva-singh# Hi there, I'm Apurva Singh 👋
+# Hi there, I'm Apurva Singh 👋
 
 **Low-Latency Alchemist | Ancient Java Warrior | Occasional Writer**
 
