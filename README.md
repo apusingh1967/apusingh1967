@@ -30,6 +30,6 @@ Let's connect if you're into:
 - Pushing performance boundaries
 - War stories from the JVM trenches
 - Rust's fight against Java in low-latency systems
-- Or just want to debate monads vs. traits
+- Or just want to debate monads, monoids and functors
 
 https://www.linkedin.com/in/apurvasingh1967/
