@@ -5,7 +5,7 @@
 ## 🔭 What I'm Currently Up To
 - Leading the charge on ultra-low-latency trading systems at a major US Bank's eTrading team
 - Pioneering our migration from Java/ION to Rust/Aeron/SBE to achieve **single-microsecond tick-to-trade latency**
-- On a mission to prove that Rust can outperform Java in high-frequency trading
+- On a mission to prove that Rust can help us earn lots of $$$ Java in market making trading
 
 ## 🛠️ Technical Arsenal
 **Languages:** Rust (new love), Java (25+ years), Python  
@@ -15,7 +15,7 @@
 ## ✍️ Thought Leadership
 I occasionally write about technical deep dives and exotic subjects:
 - [My Medium Articles](https://medium.com/me/stories/public)  
-*(Topics range from high-frequency trading to obscure programming paradigms)*
+*(Topics on obscure programming paradigms and some trading too)*
 
 ## 🏆 StackOverflow Contributions
 - Top 10% contributor with 5000+ reputation
@@ -23,7 +23,7 @@ I occasionally write about technical deep dives and exotic subjects:
 *(Though I'll admit I've gotten a bit lazy recently - those Rust borrow checker questions are calling my name!)*
 
 ## 🤔 Philosophy
-"First make it work, then make it fast - unless you're building HFT systems, then you only get one shot at both."
+"First make it work, then make it fast - unless you're building low latency trading systems, then you only get one shot at both."
 
 ## 📫 How to Reach Me
 Let's connect if you're into:
