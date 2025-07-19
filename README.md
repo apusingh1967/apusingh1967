@@ -5,7 +5,7 @@
 ## 🔭 What I'm Currently Up To
 - Leading the charge on ultra-low-latency trading systems at a major US Bank's eTrading team
 - Pioneering our migration from Java/ION to Rust/Aeron/SBE to achieve **single-microsecond tick-to-trade latency**
-- On a mission to prove that Rust can help us earn lots of $$$ Java in market making trading
+- On a mission to prove that Rust can help us earn lots of $$$ which Java can't in market making trading
 
 ## 🛠️ Technical Arsenal
 **Languages:** Rust (new love), Java (25+ years), Python  
