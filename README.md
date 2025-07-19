@@ -32,4 +32,4 @@ Let's connect if you're into:
 - Rust's fight against Java in low-latency systems
 - Or just want to debate monads vs. traits
 
-* https://www.linkedin.com/in/apurvasingh1967/ *
+https://www.linkedin.com/in/apurvasingh1967/
